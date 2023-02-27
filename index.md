@@ -1,4 +1,4 @@
-## Welcome to my page 😁
-
-COMING SOON 2020
-
+---
+title: Blog
+layout: blog
+---
