@@ -1,10 +1,10 @@
-  title: Jekyll Serial Programmer
+  title: Haider Ashfaq
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Haider Ashfaq
+  email: heeydurh@gmail.com
 
 plugins:
   - jemoji
