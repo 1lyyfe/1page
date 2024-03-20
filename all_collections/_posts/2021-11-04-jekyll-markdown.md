@@ -5,7 +5,7 @@ date: 2024-03-20
 categories: ["jekyll", "Test Post", "first post"]
 ---
 
-[Link to Another File](_site/index.html)
+[Link to Another File](index.html)
 
 ## My Latest Projects
 
