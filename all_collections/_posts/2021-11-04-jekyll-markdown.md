@@ -5,7 +5,7 @@ date: 2024-03-20
 categories: ["jekyll", "Test Post", "first post"]
 ---
 
-[Link to Another File](index.html)
+[Link to Another File](1948-12-12-the-purpose-of-education.md)
 
 ## My Latest Projects
 
