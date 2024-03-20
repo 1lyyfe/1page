@@ -5,7 +5,7 @@ date: 2024-03-20
 categories: [""]
 ---
 
-[Link to Another File]({{site.baseurl}})
+[Link to Another File](The Purpose of Education)
 
 ## My Latest Projects
 
