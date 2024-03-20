@@ -2,10 +2,10 @@
 layout: post
 title: My Latest Projects
 date: 2024-03-20
-categories: []
+categories: [""]
 ---
 
-[Link to Another File](1948-12-12-the-purpose-of-education.md)
+[Link to Another File](another-file.md)
 
 ## My Latest Projects
 
