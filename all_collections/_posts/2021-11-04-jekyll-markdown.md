@@ -5,7 +5,7 @@ date: 2024-03-20
 categories: [""]
 ---
 
-[Link to Another File](all_collections/_posts/1948-12-12-the-purpose-of-education.md)
+[Link to Another File]({{site.baseurl}})
 
 ## My Latest Projects
 
