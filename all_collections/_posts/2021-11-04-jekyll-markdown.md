@@ -5,6 +5,8 @@ date: 2024-03-20
 categories: ["jekyll", "Test Post", "first post"]
 ---
 
+[Link to Another File](_site/index.html)
+
 ## My Latest Projects
 
 Here are some of my latest projects:
@@ -17,8 +19,5 @@ Here are some of my latest projects:
    
 3. Project Three
    [![Project Three](project_three_image_url)](project_three_page_url)
-
-
-   [Link to another page](./index.html).
    
 <!-- Add more projects as needed -->
