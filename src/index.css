@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --vscode-bg: #1e1e1e;
+  --vscode-sidebar: #252526;
+  --vscode-accent: #0078d4;
+  --vscode-text: #d4d4d4;
+  --vscode-comment: #6a9955;
+  --vscode-string: #ce9178;
+  --vscode-function: #dcdcaa;
+  --vscode-keyword: #569cd6;
+  --vscode-line-number: #858585;
+}
+
+body {
+  font-family: 'JetBrains Mono', monospace;
+  background-color: var(--vscode-bg);
+  color: var(--vscode-text);
+}
+
+.code-line {
+  @apply flex items-center gap-4;
+}
+
+.line-number {
+  @apply text-[var(--vscode-line-number)] text-sm w-8 text-right pr-4 select-none;
+}
+
+.keyword {
+  @apply text-[var(--vscode-keyword)];
+}
+
+.function {
+  @apply text-[var(--vscode-function)];
+}
+
+.string {
+  @apply text-[var(--vscode-string)];
+}
+
+.comment {
+  @apply text-[var(--vscode-comment)];
+}
+
+.project-card {
+  @apply bg-[var(--vscode-sidebar)] rounded-lg overflow-hidden transition-all duration-300;
+}
+
+.project-card:hover {
+  @apply transform scale-105 shadow-xl;
+}
